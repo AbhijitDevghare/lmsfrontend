@@ -9,7 +9,7 @@ import {
 } from 'lucide-react'
 
 import HomeLayout from '../../layouts/HomeLayout'
-import { getAllCourse } from '../../redux/slices/CourseSlice'
+import { getAllCourse } from '../../Redux/slices/CourseSlice'
 import CourseCard from './CourseCard'
 
 function CourseList() {

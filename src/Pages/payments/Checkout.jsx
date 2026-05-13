@@ -5,7 +5,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
 
 import HomeLayout from '../../layouts/HomeLayout'
-import { getRazorpayKey, purchaseCourseBundle, verifyUserPayment } from '../../redux/slices/RazorpaySlice';
+import { getRazorpayKey, purchaseCourseBundle, verifyUserPayment } from '../../Redux/slices/RazorpaySlice';
 
 
 function Checkout() {

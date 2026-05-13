@@ -14,7 +14,7 @@ import { useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 
 import HomeLayout from '../../layouts/HomeLayout'
-import { createCourse } from '../../redux/slices/CourseSlice'
+import { createCourse } from '../../Redux/slices/CourseSlice'
 
 function CreateCourse() {
 

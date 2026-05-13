@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 
 import Footer from '../components/Footer'
 
-import { logout } from '../redux/slices/AuthSlice'
+import { logout } from '../Redux/slices/AuthSlice'
 
 function HomeLayout({ children }) {
 

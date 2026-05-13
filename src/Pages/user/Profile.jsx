@@ -21,9 +21,9 @@ import {
     deleteProfile,
     editProfile,
     getProfile
-} from '../../redux/slices/AuthSlice'
+} from '../../Redux/slices/AuthSlice'
 
-import { cancelSubscription } from '../../redux/slices/RazorpaySlice'
+import { cancelSubscription } from '../../Redux/slices/RazorpaySlice'
 
 function Profile() {
 

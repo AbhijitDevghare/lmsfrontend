@@ -15,7 +15,7 @@ import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import { toast } from 'react-toastify'
 
 import HomeLayout from '../../layouts/HomeLayout'
-import { updateCourse } from '../../redux/slices/CourseSlice'
+import { updateCourse } from '../../Redux/slices/CourseSlice'
 
 function EditCourse() {
 

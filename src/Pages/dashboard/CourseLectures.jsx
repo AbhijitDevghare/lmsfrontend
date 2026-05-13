@@ -202,7 +202,7 @@ function CourseLectures() {
         <div className="min-h-screen bg-[#020617] text-white">
 
             {
-                lectures?.length > 0 ? (
+                state ? (
 
                     <div className="grid lg:grid-cols-[70%,30%]">
 

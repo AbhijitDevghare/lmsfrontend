@@ -163,7 +163,7 @@ function CourseList() {
 
                                 <BookOpen
                                     size={70}
-                                    className='text-gray-600'
+                                       className='text-gray-600'
                                 />
 
                                 <h2 className='text-3xl font-bold text-gray-400'>
